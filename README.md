@@ -4,8 +4,8 @@ K-MUG Techday - Presentations in 2023
 
 ## January 2023
 * Blockchain: Smart contract with Solidity - Alwin Emmanual, Orion Business Innovation
-* Introduction to .ML.NET - Rohit Vipin Mathews, CES Limited
-* Building Applications using Blazor - Shamjith Haridasan, TCS
+* [Introduction to .ML.NET](https://github.com/k-mug/Presentations-2023/blob/main/January-2023/MLNET-Jan2023-Rohit.pptx) - Rohit Vipin Mathews, CES Limited
+* [Building Applications using Blazor](https://github.com/k-mug/Presentations-2023/blob/main/January-2023/Blazor-Jan2023-Shamjith.pptx) - [Shamjith Haridasan](https://github.com/ShamjithHaridasan), TCS
 
 ## February 2023
 
