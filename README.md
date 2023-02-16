@@ -5,7 +5,7 @@ K-MUG Tech days - Presentations in 2023
 ## February 2023
 
 * [Azure Cosmos DB Deep Dive](https://github.com/k-mug/Presentations-2023/blob/main/February-2023/Azure-Cosmos-DB-Ajai.pptx) - Ajai K M, Lead Engineer. Suyati Technologies
-* Securing ASP.NET Core Web Applications - Amal Dev, Microsoft MVP
+* [Securing ASP.NET Core Web Applications](ttps://github.com/k-mug/Presentations-2023/blob/main/February-2023/Securing-ASP-NET-Core-Web-Applications-Amal.pdf) - Amal Dev, Microsoft MVP
 * [Aspiring Developer](https://github.com/k-mug/Presentations-2023/blob/main/February-2023/Aspiring-Developer-AmritLal.pptx) - Amrith Lal, Senior Staff Engineer, Nagarro
 
 ## January 2023
