@@ -5,7 +5,7 @@ K-MUG Tech days - Presentations in 2023
 ## April 2023
 
 * [Output cache middleware in .NET 7](https://github.com/k-mug/Presentations-2023/blob/main/April-2023/Output-cache-middleware-in-dotnet7-Ajai.pdf) - Ajai K M, Lead Engineer. Suyati Technologies
-* [Streamlining Kubernetes development with Draft](https://github.com/k-mug/Presentations-2023/) - Shibin M, Associate Architect at Suyati Technologies
+* [Streamlining Kubernetes development with Draft](https://github.com/k-mug/Presentations-2023/blob/main/April-2023/Streamlining-Kubernetes-Development-With-Draft-Shibin.pptx) - Shibin M, Associate Architect at Suyati Technologies
 * [Exploring Reliable Web App Pattern](https://github.com/k-mug/Presentations-2023/blob/main/April-2023/Reliable-web-app-patterns-for-dotnet-prasanth.pdf) - Prasanth Balakrishnan, Senior Consultant, Neudesic
 
 ## February 2023
